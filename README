@@ -1,0 +1,9 @@
+micro:bit Internet Button
+
+
+        [micro:bit]                      [ESP-WROOM-32]
+  button A -> send BLE packet A  =>  BLE recv -> call Web API A  
+  button B -> send BLE packet B  =>  BLE recv -> call Web API B  
+
+
+2017 KLab Inc.
