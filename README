@@ -5,5 +5,10 @@ micro:bit Internet Button
   button A -> send BLE packet A  =>  BLE recv -> call Web API A  
   button B -> send BLE packet B  =>  BLE recv -> call Web API B  
 
+demo:
+https://drive.google.com/open?id=0BxjmZNQVvhO0NGJZbF9MZmk0dnM
+
+blog:
+http://dsas.blog.klab.org/archives/2017-08/52280315.html (in Japanese)
 
 2017 KLab Inc.
