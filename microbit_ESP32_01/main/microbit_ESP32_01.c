@@ -118,15 +118,14 @@ static TARGET_ENTRY Entries[NUM_ENTRIES] = {
     'A', // Button A
     0,
     ULONG_MAX, 
-    "https://prod-05.japaneast.logic.azure.com/workflows/******",
-    NULL},
-
+    "https://prod-05.japaneast.logic.azure.com/workflows/******"
+    },
     {{0xf2, 0x1d, 0xa9, 0x78, 0xdf, 0x2b}, // micro:bit 1
     'B',// Button B
     0,
     ULONG_MAX, 
-    "https://prod-08.japaneast.logic.azure.com/workflows/******",
-    NULL}
+    "https://prod-08.japaneast.logic.azure.com/workflows/******"
+    }
 };
 
 static TARGET_ENTRY *pCurrentTargetEntry = NULL;
